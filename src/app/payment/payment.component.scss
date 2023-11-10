@@ -1,0 +1,134 @@
+
+
+#get{
+    background-color: black;
+    border-color: black;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right:  10px;
+    color: white;
+    font-size: auto;
+}
+
+#learn{
+    background-color: white;
+    border-color: white;
+    border-radius: 10px;
+    width: 120px;
+    height: 50px;
+    margin-left: 10px;
+    color: black;
+    font-size: auto;
+}
+
+.button-g{
+    position: absolute;
+
+    
+    margin-left: 35%;
+    margin-right: 10%;
+    margin-top: 2%;
+  
+}
+
+.oval2{
+    width: 20%; height: 20%;
+    background: #FFA500;
+    border-radius: 0% 75% 75% 75%;
+    
+  }
+
+.oval{
+    width: 20%; height: 20%;
+    background: #FF0000;
+    border-radius: 0% 75% 75% 75%;
+}
+
+.egg{  position: absolute;
+    margin-left: 11%;
+    margin-right: 49%;
+    margin-top: 10%;
+
+}
+
+
+
+
+
+.full-size{
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 12%;
+      width: 60%;
+      height: 70%;
+      border-radius: 10px;
+}
+
+
+
+#payment{
+    background-color: white;
+    border-color: white;
+    width: 60%;
+    height: 15%;
+    border-radius: 20px;
+    color: black;
+    font-size: small;
+    font-weight: bold;   
+    margin-left: 20%; 
+   text-align: center;
+}
+
+.credit{
+    width: 25%;
+}
+.bussines{
+text-align: left;
+margin-left: 5%;
+}
+
+.payment-card{
+    position: absolute;
+    background-color: white;
+    box-shadow: 1px 1px 20px rgb(222, 219, 219);
+    width: 20%;
+    height: 35%;
+    border-radius: 15px;
+    margin-left: 70%;
+    margin-right: 10%;
+    margin-top: 10%;
+    
+}
+.payment-img{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+   
+}
+
+.finance{
+    background-color: white;
+    box-shadow: 1px 1px 20px rgb(222, 219, 219);
+    width: 20%;
+    height: 9%;
+    border-radius: 50px;
+    color: black;
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 18%;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+
+.testimonial-img{
+    margin-left: 1%;
+    width: 90px;
+    height: 45px;
+}
+
+
+
